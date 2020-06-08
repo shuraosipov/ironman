@@ -1,0 +1,3 @@
+- Extract text from image
+- Retrieve product name, quatity, and other metadata (location, market name, etc, date)
+- Save processed results to s3
